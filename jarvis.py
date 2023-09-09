@@ -21,7 +21,7 @@ def initialize_chatbot():
     print("[Training Process complete]")
 
     try:
-        app = wolframalpha.Client("V9Y9EK-GP333PA4H5")
+        app = wolframalpha.Client("YOUR_OPENAI_API_KEY")
     except Exception:
         print("not working")
 
