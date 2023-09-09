@@ -1,10 +1,10 @@
-# JARVIS - Your Marvelous  Assistant 🦸‍♂️
+# JARVIS - Your Marvelous Assistant 🦸‍♂️
 
 ![Jarvis Logo](https://static.wikia.nocookie.net/marvelmovies/images/0/06/J.A.R.V.I.S..jpg/revision/latest?cb=20130421191808)
 
 ## Introduction
 
-Welcome to Jarvis, your very own AI assistant inspired by the legendary J.A.R.V.I.S. from the Avengers! Jarvis is here to make your life easier and more exciting. This project is your chance to bring a piece of the Marvel universe into your world.
+Welcome to Jarvis, your very own assistant inspired by the legendary J.A.R.V.I.S. from the Avengers! Jarvis is here to make your life easier and more exciting. This project is your chance to bring a piece of the Marvel universe into your world.
 
 ## Features
 
